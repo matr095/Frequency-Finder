@@ -1,0 +1,38 @@
+body {
+    background: #333;
+    margin:auto;
+    font-size: 25px;
+    font-family: "Arial", "sans-serif";
+}
+
+#header {
+    width: 100%;
+    position:absolute;
+    top:0;
+    left:0;
+    background: lightskyblue;
+    opacity:0.7;
+    text-align: center;
+    padding:15px;
+    color:red;
+    border-bottom: 2px solid red;
+}
+
+
+#getaudio {
+    
+    border:1px solid red;
+margin:auto;
+margin-top:300px;
+width: 300px;
+background:#224488;
+padding:15px;
+}
+
+#setvalue {
+    border:1px solid red;
+margin:auto;
+width: 300px;
+background:#448822;
+padding:15px;
+}
